@@ -4,8 +4,12 @@ nav a {
     margin-left: 5px;
 }
 
-ul {
+nav li {
     display: inline-block;
+    float: left;
+}
+
+nav ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
