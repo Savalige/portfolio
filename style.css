@@ -4,11 +4,11 @@ nav a {
 }
 
 nav li {
-    display: inline-block;
     float: left;
 }
 
 nav ul {
+    display: inline-block;
     list-style-type: none;
     margin: 0;
     padding: 0;
