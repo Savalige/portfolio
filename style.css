@@ -19,8 +19,8 @@ nav {
     float: none;
 }
 
-menu {
-    padding: 10px;
-    border: 2px solid green;
-    border-radius: 3px;
+.menu {
+    padding: 2rem;
+    border: 1rem solid green;
+    border-radius: 2rem;
 }
