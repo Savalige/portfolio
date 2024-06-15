@@ -1,24 +1,29 @@
-nav a {
+body {
+    margin-left: 5rem;
+    margin-right: 5rem;
+}
+
+header a {
     color: black;
     text-decoration-line: none;
 }
 
-nav li {
+header li {
     float: left;
 }
 
-nav ul {
+header ul {
     display: inline-block;
     list-style-type: none;
     margin: 0;
     padding: 0;
 }
 
-nav {
+header {
     float: none;
 }
 
-.menu {
+.nav-link {
     padding: 1rem;
     margin-left: 2rem;
     border-bottom: 0.2rem solid gray;
