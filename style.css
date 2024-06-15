@@ -1,15 +1,16 @@
 body {
-    margin-left: 5rem;
-    margin-right: 5rem;
+    margin-left: 10rem;
+    margin-right: 10rem;
+}
+
+#home-button {
+    float: left;
+    border: none;
 }
 
 header a {
     color: black;
     text-decoration-line: none;
-}
-
-header li {
-    float: left;
 }
 
 header ul {
@@ -19,8 +20,8 @@ header ul {
     padding: 0;
 }
 
-header {
-    float: none;
+header li {
+    float: right;
 }
 
 .nav-link {
