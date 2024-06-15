@@ -24,6 +24,7 @@ main {
     padding: 1rem;
     margin-right: 2rem;
     border-bottom: 0.2rem solid #44475A;
+    float: right;
 }
 
 header a {
@@ -36,10 +37,6 @@ header ul {
     margin: 0;
     padding: 0;
     width: 100%;
-}
-
-header li {
-    float: right;
 }
 
 body {
