@@ -6,7 +6,7 @@ main {
 #home-button {
     float: left;
     border: none;
-    font-size: 3em;
+    font-size: 2em;
     font-weight: bold;
 }
 
@@ -30,5 +30,10 @@ header li {
 .nav-link {
     padding: 1rem;
     margin-right: 2rem;
-    border-bottom: 0.2rem solid gray;
+    border-bottom: 0.2rem solid #44475A;
+}
+
+body {
+    background-color: #282A36;
+    color: #F8F8F2;
 }
