@@ -43,14 +43,17 @@ header ul {
 
 .left {
     float: left;
+    padding: 4rem;
 }
 
 .right {
     float: right;
+    padding: 4rem;
 }
 
 footer {
     display: inline-block;
+    text-align: center;
 }
 
 body {
