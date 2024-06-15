@@ -11,7 +11,7 @@ main {
 }
 
 header a {
-    color: black;
+    color: #F8F8F2;
     text-decoration-line: none;
 }
 
@@ -25,6 +25,11 @@ header ul {
 
 header li {
     float: right;
+}
+
+.nav-link:hover {
+    background-color: #44475A;
+    border-color: #282A36;
 }
 
 .nav-link {
