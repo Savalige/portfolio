@@ -5,9 +5,7 @@ main {
 
 #home-button:hover {
     background-color: #282A36;
-    a {
-        color: #FFB86C;
-    }
+    color: #FFB86C;
 }
 
 #home-button {
