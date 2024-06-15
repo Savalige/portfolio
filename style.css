@@ -42,19 +42,18 @@ header ul {
 }
 
 .left {
-    float: left;
+    display: block;
     padding: 4rem;
 }
 
 .right {
-    float: right;
+    display: block;
     padding: 4rem;
 }
 
 footer {
-    display: inline-block;
-    text-align: center;
-    width: 100%;
+    display: flex;
+    justify-content: center;
 }
 
 body {
