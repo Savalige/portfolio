@@ -41,6 +41,18 @@ header ul {
     width: 100%;
 }
 
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+footer {
+    display: inline-block;
+}
+
 body {
     background-color: #282A36;
     color: #F8F8F2;
