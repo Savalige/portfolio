@@ -3,11 +3,27 @@ main {
     margin-right: 10rem;
 }
 
+#home-button:hover {
+    background-color: #282A36;
+    color: #FFB86C;
+}
+
 #home-button {
     float: left;
     border: none;
     font-size: 2em;
     font-weight: bold;
+}
+
+.nav-link:hover {
+    background-color: #44475A;
+    border-color: #6272A4;
+}
+
+.nav-link {
+    padding: 1rem;
+    margin-right: 2rem;
+    border-bottom: 0.2rem solid #44475A;
 }
 
 header a {
@@ -25,17 +41,6 @@ header ul {
 
 header li {
     float: right;
-}
-
-.nav-link:hover {
-    background-color: #44475A;
-    border-color: #282A36;
-}
-
-.nav-link {
-    padding: 1rem;
-    margin-right: 2rem;
-    border-bottom: 0.2rem solid #44475A;
 }
 
 body {
