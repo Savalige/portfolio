@@ -16,8 +16,9 @@ main {
 }
 
 .nav-link:hover {
-    background-color: #FFB86C;
-    border-color: #F1FA8C;
+    background-color: #44475A;
+    border-color: #6272A4;
+    color: #FFB86C;
 }
 
 .nav-link {
