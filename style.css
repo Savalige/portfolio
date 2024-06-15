@@ -54,6 +54,7 @@ header ul {
 footer {
     display: inline-block;
     text-align: center;
+    width: 100%;
 }
 
 body {
