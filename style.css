@@ -29,6 +29,11 @@ main {
     color: #F8F8F2;
 }
 
+header {
+    margin-left: 2rem;
+    margin-right: 1rem;
+}
+
 header a {
     text-decoration-line: none;
 }
