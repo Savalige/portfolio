@@ -46,17 +46,20 @@ header ul {
     width: 100%;
 }
 
-.left {
+.flex-item {
     display: block;
     padding: 4rem;
 }
 
-.right {
-    display: block;
-    padding: 4rem;
+#projects ul {
+    list-style-type: none;
 }
 
-footer {
+#projects img {
+    width: 30%;
+}
+
+.flex-box {
     display: flex;
     justify-content: center;
 }
