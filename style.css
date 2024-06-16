@@ -46,10 +46,13 @@ header ul {
     width: 100%;
 }
 
+#projects .flex-item {
+    flex: 1 1 0px;
+}
+
 .flex-item {
     display: block;
     padding: 2rem;
-    flex: 1 1 0px;
 }
 
 #projects ul {
@@ -60,6 +63,10 @@ header ul {
     width: 100%;
     height: 70%;
     object-fit: cover;
+}
+
+#projects h3 {
+    text-align: center;
 }
 
 .flex-box {
