@@ -52,8 +52,12 @@ header ul {
     width: 100%;
 }
 
+#projects .flex-item:hover {
+    border-color: #FFB86C;
+}
+
 #projects .flex-item {
-    flex: 1 1 0px;
+    flex: 1 1 20rem;
     border: 0.1rem solid;
     border-radius: 2rem;
 }
@@ -81,6 +85,7 @@ header ul {
 .flex-box {
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
 }
 
 body {
